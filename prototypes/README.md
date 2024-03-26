@@ -6,4 +6,5 @@ Contributor: Mahrusa Billah
 Contributer: Sophie Yang
 * demo.py: prototype of openai based LLM, it is given a dataset and can respond to questions about the dataset. This demo did not end up working, there was a problem with openai and the modules with it not being compatible with the python version. The methods can show what the demo is intended to do.
 Contributor: Jolene Mollenkamp
-* index.html:
+* index.html: The HTML file created was intended to serve as the foundational structure for the website dedicated to the implementation of the ChatterPlot chatbot. The website aimed to facilitate seamless communication between the business users and the chatbot, optimizing interactions. However, midway through the development process, an alternative solution was discovered leading to the discontinuation of the website's development, this reflects an initial attempt that was replaced by a more efficient approach.
+Contributor: Sanskriti Aripineni
